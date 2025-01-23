@@ -1,2 +1,2 @@
-# mnist-diffusion
-Continuous-time diffusion model for generating MNIST digits
+# Continuous-time diffusion model for generating MNIST digits
+See the Jupyter notebook.
